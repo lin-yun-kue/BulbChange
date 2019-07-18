@@ -1,0 +1,12 @@
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\bin\Debug\netcoreapp3.0\LightBubbleChange.exe
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\bin\Debug\netcoreapp3.0\LightBubbleChange.deps.json
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\bin\Debug\netcoreapp3.0\LightBubbleChange.runtimeconfig.json
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\bin\Debug\netcoreapp3.0\LightBubbleChange.runtimeconfig.dev.json
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\bin\Debug\netcoreapp3.0\LightBubbleChange.dll
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\bin\Debug\netcoreapp3.0\LightBubbleChange.pdb
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\obj\Debug\netcoreapp3.0\LightBubbleChange.csprojAssemblyReference.cache
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\obj\Debug\netcoreapp3.0\LightBubbleChange.csproj.CoreCompileInputs.cache
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\obj\Debug\netcoreapp3.0\LightBubbleChange.AssemblyInfoInputs.cache
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\obj\Debug\netcoreapp3.0\LightBubbleChange.AssemblyInfo.cs
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\obj\Debug\netcoreapp3.0\LightBubbleChange.dll
+D:\PersonalProject\LightBubbleChange\LightBubbleChange\obj\Debug\netcoreapp3.0\LightBubbleChange.pdb
